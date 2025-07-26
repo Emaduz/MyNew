@@ -39,10 +39,10 @@ export default function Skills() {
       icon: PenTool,
       title: 'Print Design',
       skills: [
-        { name: 'Layout Design', level: 93 },
-        { name: 'Print Production', level: 90 },
-        { name: 'Brochures & Catalogs', level: 92 },
-        { name: 'Signage Design', level: 87 }
+        { name: 'Layout Design' },
+        { name: 'Print Production' },
+        { name: 'Brochures & Catalogs' },
+        { name: 'Signage Design' }
       ]
     }
   ]
