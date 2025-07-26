@@ -11,30 +11,28 @@ export default function Skills() {
       icon: Palette,
       title: 'Design Software',
       skills: [
-        { name: 'Adobe Photoshop', level: 95 },
-        { name: 'Adobe Illustrator', level: 95 },
-        { name: 'Adobe InDesign', level: 90 },
-        { name: '3D Modeling Tools', level: 85 }
+        { name: 'Adobe Photoshop', },
+        { name: 'Adobe Illustrator' },
+        { name: 'Adobe InDesign' },
       ]
     },
     {
       icon: Monitor,
       title: 'Digital Design',
       skills: [
-        { name: 'UI/UX Design', level: 88 },
-        { name: 'Mobile App Interface', level: 85 },
-        { name: 'Web Design', level: 80 },
-        { name: 'Digital Marketing Materials', level: 92 }
+        { name: 'Mobile App Interface' },
+        { name: 'Web Design' },
+        { name: 'Digital Marketing Materials' }
       ]
     },
     {
       icon: Layers,
       title: 'Branding & Identity',
       skills: [
-        { name: 'Logo Design', level: 95 },
-        { name: 'Brand Identity Development', level: 93 },
-        { name: 'Typography', level: 90 },
-        { name: 'Visual Storytelling', level: 88 }
+        { name: 'Logo Design' },
+        { name: 'Brand Identity Development' },
+        { name: 'Typography' },
+        { name: 'Visual Storytelling' }
       ]
     },
     {
