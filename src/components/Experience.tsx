@@ -22,7 +22,7 @@ export default function Experience() {
       highlights: ['Millions of Views', 'Global Audience', 'Cultural Sensitivity']
     },
     {
-      company: 'Al Fanoos Press',
+      company: 'Al Fanoos Trading Co.',
       location: 'Saudi Arabia', 
       position: 'Graphic & Printing Specialist',
       period: 'Current Position',
