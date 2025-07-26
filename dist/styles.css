@@ -1,1 +1,21 @@
+:root {
+    --coffee-dark: #561C24;
+    --coffee-medium: #6D2932;
+    --coffee-light: #C7B7A3;
+    --coffee-lighter: #E8DBC4;
+}
 
+body {
+    background-color: var(--coffee-lighter);
+    color: var(--coffee-dark);
+}
+
+/* Example usage */
+.header {
+    background-color: var(--coffee-medium);
+}
+
+.button {
+    background-color: var(--coffee-dark);
+    color: var(--coffee-lighter);
+}
