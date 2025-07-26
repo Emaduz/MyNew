@@ -8,8 +8,8 @@ module.exports = {
     },
     extend: {
       colors: {
-        background: 'hsl(var(--background))',
-        foreground: 'hsl(var(--foreground))',
+        background: 'hsl(39,85%,95%(--background))',
+        foreground: 'hsl(0,68%,42%(--foreground))',
         card: {
           DEFAULT: 'hsl(var(--card))',
           foreground: 'hsl(var(--card-foreground))',
