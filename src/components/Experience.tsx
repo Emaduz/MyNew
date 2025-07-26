@@ -25,7 +25,7 @@ export default function Experience() {
       company: 'Al Fanoos Press',
       location: 'Saudi Arabia', 
       position: 'Graphic & Printing Specialist',
-      period: 'Previous Role',
+      period: 'Current Position',
       type: 'Commercial',
       achievements: [
         'Designed high-quality print materials including brochures, business cards, and signage systems',
@@ -52,7 +52,7 @@ export default function Experience() {
   ]
 
   const stats = [
-    { number: '9+', label: 'Years Experience', icon: Calendar },
+    { number: '5+', label: 'Years Experience', icon: Calendar },
     { number: '100+', label: 'Projects Completed', icon: Award },
     { number: '50+', label: 'Happy Clients', icon: Users },
     { number: '95%', label: 'Client Satisfaction', icon: TrendingUp }
