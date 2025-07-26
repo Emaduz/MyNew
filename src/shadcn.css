@@ -79,8 +79,8 @@ html {
 }
 
 body {
-  color: hsl(var(--foreground));
-  background-color: hsl(var(--background));
+  color: #a40000;
+  background-color: #faebd7;
   overscroll-behavior: none;
   font-synthesis-weight: none;
 }
