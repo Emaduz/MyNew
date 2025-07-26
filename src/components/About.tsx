@@ -68,7 +68,7 @@ export default function About() {
           {/* Right Content - Visual Elements */}
           <div className="space-y-6">
             <img 
-              src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/fc1142212641103.6738797cac76d.jpeg" 
+              src="https://mir-cdn.behance.net/v1/rendition/project_modules/fs_webp/5cd995210092607.670b6931a4849.jpg" 
               alt="Design workspace"
               className="w-full h-64 object-cover rounded-lg shadow-lg"
             />
