@@ -9,7 +9,7 @@ export default function About() {
   const highlights = [
     {
       icon: Award,
-      title: '9+ Years Experience',
+      title: '+5 Years Experience',
       description: 'Proven track record in graphic design and visual communication'
     },
     {
@@ -48,7 +48,7 @@ export default function About() {
             <h3 className="text-2xl font-bold text-gray-900 mb-6">
               Professional Journey
             </h3>
-            <p className="text-gray-700 text-lg leading-relaxed mb-6">
+            <p className="text-Davy’s grey-700 text-lg leading-relaxed mb-6">
               As a Senior Graphic Designer with over 9 years of experience, I specialize in creating 
               compelling visual identities that resonate with audiences. My expertise spans across 
               branding, logo design, UI/UX design, and marketing materials for both print and digital platforms.
@@ -58,7 +58,7 @@ export default function About() {
               to prestigious institutions like Al Masjid Al Nabawi, where my designs have been viewed 
               by millions of people worldwide.
             </p>
-            <p className="text-gray-700 text-lg leading-relaxed">
+            <p className="text-Davy’s grey-700 text-lg leading-relaxed">
               My approach combines creative vision with strategic thinking, ensuring that every design 
               not only looks exceptional but also serves its intended purpose effectively. I'm passionate 
               about staying current with design trends and continuously expanding my skill set.
@@ -68,7 +68,7 @@ export default function About() {
           {/* Right Content - Visual Elements */}
           <div className="space-y-6">
             <img 
-              src="https://pub-cdn.sider.ai/u/U01AH8O39O6/web-coder/687cf394877a7836b0161b06/resource/7f704fde-fdde-4267-8ee7-a39f7181b992.jpg" 
+              src="https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/fc1142212641103.6738797cac76d.jpeg" 
               alt="Design workspace"
               className="w-full h-64 object-cover rounded-lg shadow-lg"
             />
@@ -81,7 +81,6 @@ export default function About() {
                 <li>• TOEFL ITP Certificate (2021)</li>
                 <li>• Diplôme Français Junior (2022)</li>
                 <li>• ICDL Certificate (2016)</li>
-                <li>• English Advanced Diploma (2018)</li>
               </ul>
             </div>
           </div>
